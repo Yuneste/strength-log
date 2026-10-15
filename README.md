@@ -1,6 +1,19 @@
-# **Strength Log** 
+# Strength Log
 
----
+A workout logger for lifters: record your sets, track personal records and see your progress over time.
 
-### Strength Log is a guided project followed by an AI tutor that evaluates the user's knowledge in each step and provides it with tasks accordingly for the user to complete on his own
+## Status
 
+Early development. Right now it's a Java console app; a web app with accounts comes later.
+
+## Requirements
+
+- JDK 25
+
+## How to run
+
+From the project root:
+
+    java src/main/java/io/github/yuneste/strengthlog/Main.java
+
+Or open the project in IntelliJ IDEA and run `Main`.
