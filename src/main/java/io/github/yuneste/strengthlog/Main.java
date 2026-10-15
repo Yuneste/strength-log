@@ -1,4 +1,4 @@
-package com.yuneste.strengthlog;
+package io.github.yuneste.strengthlog;
 
 public class Main {
     static void main() {
